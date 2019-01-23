@@ -1,6 +1,6 @@
-# BEM
+# BEM CSS
 
-Tài liệu sau đây cung cấp cái nhìn tổng quan về cách sử dụng BEM CSS và ứng dụng trong các project thực tế. Các quy ước này nên được xem xét nghiêm túc trong các project thực tế.
+Tài liệu sau đây cung cấp cái nhìn tổng quan về cách sử dụng [BEM CSS](https://codetot.net/toan-tap-ve-bem-css/) và ứng dụng trong các project thực tế. Các quy ước này nên được xem xét nghiêm túc trong các project thực tế.
 
 Bạn có thể xem bài viết gốc về BEM CSS tại [Code Tốt](https://codetot.net/toan-tap-ve-bem-css/)
 
